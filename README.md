@@ -1,0 +1,1 @@
+Sets up a Config Server and builds a client that consumes the configuration on startup and then refreshes the configuration without restarting the client.
